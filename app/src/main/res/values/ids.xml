@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sptxt" type="id" />
+    <item name="buttonNext" type="id" />
+    <item name="simpleImageSwitcher" type="id" />
+</resources>
